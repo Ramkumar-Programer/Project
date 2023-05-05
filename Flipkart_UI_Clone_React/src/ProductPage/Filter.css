@@ -1,0 +1,16 @@
+.filter{
+    position: absolute;
+    top: 15%;
+    margin-left: 10px;
+    width: 280px;
+    height: 800px;
+    background-color: #fff;
+    box-shadow: 2px 2px 8px rgb(153, 151, 151);
+
+}
+
+@media (max-width: 900px){
+    .filter{
+        display: none;
+    }
+}

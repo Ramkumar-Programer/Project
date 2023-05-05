@@ -1,0 +1,24 @@
+.side--ad--homepage{
+    position:absolute;
+    right: 0%;
+    margin: 0 8px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    padding: 5px;
+}
+.img--ad--homepage img{
+    width: 220px;
+    height: 349px;
+}
+.NavBar{
+    position: absolute;
+    position: fixed;
+}
+.brand--homepage{
+    position:absolute;
+    top: 165%;
+    margin-left: 10px;
+}
+.img--brand--homepage img{
+    padding: 9px;
+}

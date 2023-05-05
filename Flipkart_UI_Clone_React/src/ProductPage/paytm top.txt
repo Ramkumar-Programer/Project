@@ -1,0 +1,65 @@
+paytm top
+
+https://rukminim1.flixcart.com/flap/3006/260/image/a17e81140b963db8.jpg?q=50
+
+==================================================
+
+view all
+
+blue === https://rukminim1.flixcart.com/flap/278/278/image/fbdc93ecccd521fc.jpg?q=90
+orange === https://rukminim1.flixcart.com/flap/278/278/image/0faa628cc9e9cdb5.jpg?q=90
+pink === https://rukminim1.flixcart.com/flap/278/278/image/2af2f20efe488dd5.jpg?q=90
+
+
+
+
+ad big
+
+blue main {
+    https://rukminim1.flixcart.com/flap/480/480/image/573e022be2528d96.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/aeaf8048f2adc287.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/22f97bc8a92ca929.jpg?q=50
+
+}
+
+pink {
+    https://rukminim1.flixcart.com/flap/480/480/image/c8a20eb68f22aa68.jpeg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/4b2d6bd1d278a0ea.jpeg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/4b2d6bd1d278a0ea.jpeg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/55f73f6524b32cd6.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/751d43ee0fc09c6a.jpeg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/695e277702d24f9f.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/e4583f4995f03757.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/2a554b95ee0b2b10.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/56cf2eb7cb2a58e5.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/aed1171154f5ddf8.jpg?q=50
+    https://rukminim1.flixcart.com/flap/480/480/image/38b0ae0de0db92e2.jpg?q=50
+}
+
+
+ad small
+
+blue{
+    https://rukminim1.flixcart.com/flap/740/303/image/f69a4bd10794d67d.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/40d75d2246617195.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/bc8045bb333e5546.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/05000d54869e599a.jpg?q=50
+}
+
+pink{
+    https://rukminim1.flixcart.com/flap/740/303/image/3c1217e116c5289a.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/f1dc3f81b6e7b18b.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/3b13ab22a4bb3cb8.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/2b2ff206350d1d0f.jpg?q=50
+}
+
+under pink{
+    https://rukminim1.flixcart.com/flap/740/303/image/f057b88de2205cc4.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/49168aabe9ce9b0b.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/49168aabe9ce9b0b.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/8b75032dc1fc8ad5.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/8b75032dc1fc8ad5.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/bb893a6968cc73fd.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/bb893a6968cc73fd.jpg?q=50
+    https://rukminim1.flixcart.com/flap/740/303/image/bb893a6968cc73fd.jpg?q=50
+}

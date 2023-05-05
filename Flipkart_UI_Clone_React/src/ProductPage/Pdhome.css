@@ -1,0 +1,35 @@
+.pdCont{
+    display: flex;
+    justify-content: center;
+    min-width: 200px;
+    margin-top: 3px;
+    margin-left: 300px;
+    background-color: #fff;
+}
+.pdhomeCard{
+    
+    position: relative;
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+}
+@media (max-width: 1500px){
+    .pdCont{
+        margin-left: 300px;
+    }
+}
+
+@media (max-width: 900px){
+    .pdCont{
+        margin-left: 0px;
+        margin-top: 130px;
+    }
+}
+
+
+@media (max-width: 400px){
+    .pdCont{
+        margin-left: 5px;
+        margin-top: 130px;
+    }
+}

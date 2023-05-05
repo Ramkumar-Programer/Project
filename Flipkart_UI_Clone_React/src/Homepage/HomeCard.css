@@ -1,0 +1,50 @@
+.homecard--carousel {
+    width: 195px;
+    height: 288px;
+    background: #fff;
+    padding: 25px 20px;
+}
+ .homecard--carousel .homeimgBx--carousel {
+    position: relative;
+    width: 150px;
+    height: 155px;
+    overflow: hidden;
+}
+ .homecard--carousel .homeimgBx--carousel img {
+    position: absolute;
+    top: 0;
+    left: 5%;
+    width: 125px;
+    height: 150px;
+    object-fit: contain;
+    transition: 0.5s ease-in-out;
+}
+ .homecard--carousel:hover .homeimgBx--carousel img{
+    transform: scale(1.3);
+}
+ .homecard--carousel .homecontent--carousel{
+     margin-top: 15px;
+    padding: 5px;
+}
+
+ .homecard--carousel .homecontent--carousel .homeproductName--carousel h3,
+ .homecard--carousel .homecontent--carousel .homeother--products--carousel h3{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}
+ .homecard--carousel .homecontent--carousel .homeoffer--details--carousel h4{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: green;
+}
+.homecard--carousel .homecontent--carousel .homeother--products--carousel h3{
+   color: #212121;
+   font-weight: 300;
+}
