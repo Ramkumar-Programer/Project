@@ -1,0 +1,69 @@
+.logo{
+    padding-left: 20%;
+	justify-content: center;
+	width: 800px;
+	height: 150px;
+}
+.main{
+	padding-left: 10%;
+	padding-top: 5%;
+	padding-bottom: 124px;
+	padding-right: 20%;
+	justify-content: center;
+	align-items: center;
+}
+.form_re{
+	height: 250px;
+	width: 350px;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 16px 30px #000;
+	text-align-last: center;
+}
+.form_re .title_re{
+	border-bottom: solid 2px;
+	background-color: blue;
+	border-radius: 12px;
+	letter-spacing: 3px;
+	box-shadow: 0 8px 20px blue;
+	color: #fff;
+}
+.form_re .result{
+	padding-top: 10%;
+}
+
+footer{
+	background: #111;
+	height: auto;
+	width: 100vw;
+	font-family: 'Open Sans';
+	padding-top: 15px;
+	padding-bottom: 0px;
+	color: red;
+}
+footer #footer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+footer #footer .copyright,
+footer #footer .credits{
+	letter-spacing: 0.5px;
+	color: #fff;
+}
+footer #footer .copyright a{
+	color: blue;
+	text-decoration: none;
+}
+footer #footer .credits a{
+	color: yellow;
+	text-decoration: none;
+	letter-spacing: 1px;
+}
+footer #footer .copyright a:hover,
+footer #footer .credits a:hover{
+	opacity: 0.8;
+}
