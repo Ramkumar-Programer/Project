@@ -1,0 +1,105 @@
+.Card
+{
+  width: 240px;
+  margin-bottom: 15px;
+}
+.Card .topCard
+{
+  display: flex;
+  background-color: rgb(131, 112, 88);
+  height: 45px;
+}
+.Card .topCard .plusMinus
+{
+  margin-left: 10px;
+  margin-top: 2px;
+  margin-right: 10px;
+  font-size: 25px;
+  cursor: pointer;
+  color: wheat;
+}
+.Card .topCard .cardTitle
+{
+  margin-left: 35px;
+  padding-top: 7px;
+}
+.cancelCard
+{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 210px;
+  font-size: 13px;
+  border: none;
+  background-color: rgb(231, 164, 49);
+  outline: none;
+  color: white;
+  border-radius: 10px;
+}
+.Card .cardContent textarea
+{
+  
+  height: 110px;
+  width: 240px;
+  outline: none;
+  border: none;
+  resize: none;
+}
+
+.cardNameContainer {
+  position: relative;
+  display: inline-block;
+}
+
+.cardTitle {
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 10px;
+  max-width: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: white;
+}
+
+.card.editLogo {
+  display: none;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.cardNameContainer.editMode.cardTitle {
+  display: none;
+}
+
+.cardNameContainer.editMode .editLogo {
+  display: inline-block;
+}
+
+.cardNameContainer .cardNameEditInput
+{
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgb(223, 210, 210);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 25px;
+    width: 120px;
+    color: beige;
+}
+.card.editLogo.cancelEdit
+{
+    position: absolute;
+    margin-right: 10PX;
+    color: red;
+    background-color: none
+}
+.card.editLogo.saveEdit
+{
+    position: absolute;
+    margin-right: -10PX;
+    color: rgb(5, 166, 24);
+}
